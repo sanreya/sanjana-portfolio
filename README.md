@@ -4,10 +4,10 @@ Welcome to my portfolio website repository!
 
 I am a Computer Science Engineering student and software developer with a strong interest in Artificial Intelligence, Machine Learning, Full-Stack Development, and Computer Vision. I enjoy building practical applications, solving challenging problems, and continuously learning new technologies.
 
-🌐 **Portfolio Website:** [Your Portfolio Link]
-💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sanjana-n-athreya/)
-💻 **GitHub:** [Your GitHub Link]
-📧 **Email:** [Your Email Address]
+🌐 **[Portfolio](https://hey-sanjana-n-athreya.web.app/)**
+💼 **[LinkedIn](https://www.linkedin.com/in/sanjana-n-athreya/)**
+💻 **[GitHub](https://github.com/sanreya/)**
+📧 **[Email Address](sanjanaathreyan@gmail.com)**
 
 ---
 
@@ -205,11 +205,11 @@ Interactive 3D museum experience built using Unity, allowing users to explore ex
 
 Feel free to reach out for collaborations, opportunities, or discussions related to AI, Machine Learning, Software Development, and Technology.
 
-📧 Email: [Your Email]
+📧 [Email](sanjanaathreyan@gmail.com)
 
-💼 LinkedIn: [Your LinkedIn]
+💼  [LinkedIn](https://www.linkedin.com/in/sanjana-n-athreya/)
 
-💻 GitHub: [Your GitHub]
+💻 [GitHub](https://github.com/sanreya/)
 
 ---
 
