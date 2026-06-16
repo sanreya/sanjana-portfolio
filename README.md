@@ -1,73 +1,216 @@
-# React + TypeScript + Vite
+# 👋 Hi, I'm Sanjana Athreya
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio website repository!
 
-Currently, two official plugins are available:
+I am a Computer Science Engineering student and software developer with a strong interest in Artificial Intelligence, Machine Learning, Full-Stack Development, and Computer Vision. I enjoy building practical applications, solving challenging problems, and continuously learning new technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 **Portfolio Website:** [Your Portfolio Link]
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sanjana-n-athreya/)
+💻 **GitHub:** [Your GitHub Link]
+📧 **Email:** [Your Email Address]
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 About Me
 
-## Expanding the ESLint configuration
+* Computer Science Engineering student
+* KCET Rank Holder and Scholarship Recipient
+* Passionate about AI, Machine Learning, and Software Development
+* Experienced in Full-Stack Web Development
+* Interested in Computer Vision and Large Language Models (LLMs)
+* Strong problem-solving and analytical skills
+* Consistent learner with hands-on project experience
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🛠️ Tech Stack
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+### Programming Languages
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+* Java
+* Python
+* JavaScript
+* TypeScript
+* C
+* C++
+* R
+* SQL
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### Frontend Development
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+* React.js
+* HTML5
+* CSS3
+* Bootstrap
+* Tailwind CSS
+* AJAX
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+### Backend Development
+
+* Node.js
+* Express.js
+* Spring Boot
+* REST APIs
+
+### Databases
+
+* MySQL
+* MongoDB
+* Firebase Firestore
+
+### Artificial Intelligence & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* NLP Fundamentals
+* TensorFlow
+* Keras
+* Scikit-learn
+* OpenCV
+* YOLOv8
+* Hugging Face Transformers
+
+### Data Analysis & Visualization
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* R Programming
+
+### Cloud & Tools
+
+* Firebase
+* Git
+* GitHub
+* Choreo
+* VS Code
+* Jupyter Notebook
+* Postman
+
+### Game Development
+
+* Unity
+* C#
+
+---
+
+## 📂 Featured Projects
+
+### 🛰️ Building Segmentation Using YOLOv8
+
+Developed a computer vision solution that segments buildings from satellite imagery using YOLOv8 segmentation models.
+
+**Technologies:** Python, YOLOv8, OpenCV, Deep Learning
+
+---
+
+### ❤️ Heart Disease Prediction
+
+Compared multiple machine learning models to predict the likelihood of heart disease and evaluated performance using various classification metrics.
+
+**Technologies:** R, Machine Learning, Data Visualization
+
+---
+
+### 🩺 Skin Cancer Detection
+
+Built a deep learning-based medical image classification system for skin cancer detection.
+
+**Technologies:** Python, TensorFlow, CNNs
+
+---
+
+### 🏨 Hotel Reservation System
+
+A full-stack hotel booking application with authentication, room reservation features, and deployment support.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB
+
+---
+
+### 💬 Chat Room Application
+
+Real-time communication platform enabling users to exchange messages efficiently.
+
+**Technologies:** JavaScript, Web Technologies
+
+---
+
+### 📱 Social Media Application
+
+Designed and developed a social networking application featuring user interactions and content sharing.
+
+**Technologies:** Full-Stack Development
+
+---
+
+### ✈️ Airport Ticket Booking Application
+
+Application designed to streamline airline ticket reservations and booking management.
+
+**Technologies:** Software Development, Database Management
+
+---
+
+### 🏛️ Virtual Museum Tour
+
+Interactive 3D museum experience built using Unity, allowing users to explore exhibits virtually.
+
+**Technologies:** Unity, C#
+
+---
+
+### 🎮 Game Development Projects
+
+* Flappy Bird Clone
+* 3D Endless Runner
+* Virtual Museum Experience
+
+**Technologies:** Unity, C#
+
+---
+
+## 📜 Certifications
+
+* IBM Data Visualization
+* TensorFlow Fundamentals
+* Data Analysis with Python
+* Data Analysis with R
+* Introduction to Data Science
+
+---
+
+## 🏆 Achievements
+
+* KCET Rank Holder
+* Scholarship Recipient
+* Built multiple AI, Machine Learning, Full-Stack, and Unity projects
+* Active learner in AI and Software Engineering
+
+---
+
+## 📈 Current Learning Goals
+
+* Large Language Models (LLMs)
+* Generative AI
+* Advanced Machine Learning
+* System Design
+* Scalable Web Applications
+
+---
+
+## 📬 Contact
+
+Feel free to reach out for collaborations, opportunities, or discussions related to AI, Machine Learning, Software Development, and Technology.
+
+📧 Email: [Your Email]
+
+💼 LinkedIn: [Your LinkedIn]
+
+💻 GitHub: [Your GitHub]
+
+---
+
+⭐ If you like my work, consider giving this repository a star!
