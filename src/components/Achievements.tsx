@@ -1,5 +1,5 @@
 import { motion, type Variants } from 'framer-motion';
-import { Award, Trophy, CheckCircle } from 'lucide-react';
+import { Trophy, CheckCircle } from 'lucide-react';
 
 export default function Achievements() {
   const achievements = [
