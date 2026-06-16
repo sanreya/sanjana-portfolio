@@ -11,13 +11,6 @@ export default function Achievements() {
       tag: 'Top 0.5% Rank',
     },
     {
-      icon: <Award size={26} style={{ color: 'var(--accent)' }} />,
-      title: 'Scholarship Recipient',
-      issuer: 'Visvesvaraya Technological University',
-      desc: 'Awarded merit-based academic scholarships throughout the engineering course in recognition of outstanding GPA performance and active engineering community contribution.',
-      tag: 'Merit Honors',
-    },
-    {
       icon: <CheckCircle size={26} style={{ color: 'var(--accent)' }} />,
       title: 'Technical Certifications',
       issuer: 'Google, Coursera & DeepLearning.AI',
@@ -57,7 +50,7 @@ export default function Achievements() {
         <div
           style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(3, 1fr)',
+            gridTemplateColumns: 'repeat(2, 1fr)',
             gap: '1.5rem',
           }}
           className="achievements-grid"
